@@ -1,0 +1,626 @@
+TNearby
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch.pch Nearby/Nearby-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/AppDelegate.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Location.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/Location.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Annotation.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/Annotation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueCell.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MBProgressHUD.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/MBProgressHUD.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Venue.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/Venue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/main.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueTableViewController.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MapViewController.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Nearby normal i386
+cCpResource Nearby/default-image.png DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/default-image.png
+cCopyStringsFile /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/en.lproj/InfoPlist.strings Nearby/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/useragent86/Downloads/NearbyChallenge/Nearby/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app /Users/useragent86/Downloads/NearbyChallenge/Nearby/Images.xcassets
+cProcessInfoPlistFile /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Info.plist /Users/useragent86/Downloads/NearbyChallenge/Nearby/Nearby-Info.plist
+cGenerateDSYMFile /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app.dSYM /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Nearby
+cTouch /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053289BE300000000000003B4
+t1395170275
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053289BE9000000000000019E
+t1395170281
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053289BEA0000000000446820
+t1395170282
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000053289BEA00000000000F1A80
+t1395170282
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053289BEB000000000088D8C0
+t1395170283
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c0000000053289BEC000000000067F940
+t1395170284
+s6814016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c0000000053289BEB00000000002E6B60
+t1395170283
+s3042144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000053289BEC00000000001BE790
+t1395170284
+s1828752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000053289BEF0000000001F1DE10
+t1395170287
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053289BFF0000000000000ADC
+t1395170303
+s2780
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Annotation.o
+t1395196588
+s11840
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/AppDelegate.o
+t1395196587
+s63380
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Location.o
+t1395196587
+s14908
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MBProgressHUD.o
+t1395196588
+s192168
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MapViewController.o
+t1395196588
+s61172
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Nearby.LinkFileList
+c00000000532902AA00000000000005D8
+t1395196586
+s1496
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Venue.o
+t1395196587
+s9748
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueCell.o
+t1395196587
+s48576
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueTableViewController.o
+t1395196588
+s105540
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/main.o
+t1395196587
+s3552
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/assetcatalog_dependencies.txt
+t1395196589
+s445
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/assetcatalog_generated_info.plist
+t1395196589
+s525
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch.pch
+t1395196587
+s118516
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app
+t1395196595
+s340
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app.dSYM
+t2
+s0
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Base.lproj/Main.storyboardc
+t1395196595
+s238
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Info.plist
+t1395196595
+s1094
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Nearby
+t1395196588
+s389964
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/PkgInfo
+t1395196595
+s8
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/default-image.png
+t1395196588
+s5011
+
+N/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/en.lproj/InfoPlist.strings
+t1395196588
+s42
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/Annotation.m
+c00000000532377E200000000000000DE
+t1394833378
+s222
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/AppDelegate.m
+c00000000532377E200000000000008B0
+t1394833378
+s2224
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/Base.lproj/Main.storyboard
+c00000000532377E200000000000029D9
+t1394833378
+s10713
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/Images.xcassets
+c00000000532377E20000000000000088
+t1394833378
+s136
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/Location.m
+c00000000532377E20000000000000105
+t1394833378
+s261
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/MBProgressHUD.m
+c00000000532377E20000000000008162
+t1394833378
+s33122
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.m
+c00000000532377E200000000000007F0
+t1394833378
+s2032
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/Nearby-Info.plist
+c00000000532377E20000000000000540
+t1394833378
+s1344
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/Nearby-Prefix.pch
+c00000000532377E20000000000000158
+t1394833378
+s344
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/Venue.m
+c00000000532377E20000000000000103
+t1394833378
+s259
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueCell.m
+c00000000532377E20000000000000281
+t1394833378
+s641
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueTableViewController.m
+c00000000532377E200000000000025CD
+t1394833378
+s9677
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/default-image.png
+c00000000532377E20000000000001393
+t1394833378
+s5011
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/en.lproj/InfoPlist.strings
+c00000000532377E2000000000000002D
+t1394833378
+s45
+
+N/Users/useragent86/Downloads/NearbyChallenge/Nearby/main.m
+c00000000532377E20000000000000146
+t1394833378
+s326
+
+N/Users/useragent86/Downloads/NearbyChallenge/SDWebImage.framework/SDWebImage
+c00000000532377E200000000001B1A8C
+t1394833378
+s1776268
+
+CBuild AST from /Users/useragent86/Downloads/NearbyChallenge/Nearby/Annotation.m
+r0
+
+CBuild AST from /Users/useragent86/Downloads/NearbyChallenge/Nearby/AppDelegate.m
+r0
+
+CBuild AST from /Users/useragent86/Downloads/NearbyChallenge/Nearby/Location.m
+r0
+
+CBuild AST from /Users/useragent86/Downloads/NearbyChallenge/Nearby/MBProgressHUD.m
+r0
+
+CBuild AST from /Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.m
+r0
+
+CBuild AST from /Users/useragent86/Downloads/NearbyChallenge/Nearby/Venue.m
+r0
+
+CBuild AST from /Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueCell.m
+r0
+
+CBuild AST from /Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueTableViewController.m
+r0
+
+CBuild AST from /Users/useragent86/Downloads/NearbyChallenge/Nearby/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf2b05c2a3ad9b841^475a6e2a3ad9b841^---0#1#1#--18"Check dependencies36"9D690B1F-41B5-4CC9-8F7A-A6AF9B08B60D-
+
+CCompileAssetCatalog /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app /Users/useragent86/Downloads/NearbyChallenge/Nearby/Images.xcassets
+s416889388.521663
+e416889389.659112
+r1
+xCompileAssetCatalog
+x/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app
+x/Users/useragent86/Downloads/NearbyChallenge/Nearby/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/LaunchImage-700-568h@2x.png
+o/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Assets.car
+o/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"CompileAssetCatalog DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app Nearby/Images.xcassets109"CompileAssetCatalog DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app Nearby/Images.xcassets94a2852c3ad9b841^e4bba82d3ad9b841^-473"/* com.apple.actool.compilation-results *//Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/LaunchImage-700-568h@2x.png/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Assets.car/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@75"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/Images.xcassets/0000000000000000^1236"CompileAssetCatalog DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app Nearby/Images.xcassets    cd /Users/useragent86/Downloads/NearbyChallenge    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app /Users/useragent86/Downloads/NearbyChallenge/Nearby/Images.xcassets36"9DB750C2-E4EB-4B41-A9BE-1D6D5B82CDAC-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Annotation.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/Annotation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416889387.817464
+e416889388.257789
+r1
+xCompileC
+xDerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Annotation.o
+x/Users/useragent86/Downloads/NearbyChallenge/Nearby/Annotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/Annotation.m
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/Annotation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/useragent86/Downloads/NearbyChallenge/Nearby/Annotation.m216"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Annotation.o Nearby/Annotation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5264d12b3ad9b841^cafe412c3ad9b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/Annotation.m0000000000000000^5495"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Annotation.o Nearby/Annotation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/useragent86/Downloads/NearbyChallenge    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/useragent86/Downloads/NearbyChallenge/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-generated-files.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-own-target-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-all-target-headers.hmap -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-project-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources/i386 -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources -F/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator -F. -FDerivedData -FNearby -FNearbyTests -FDerivedData/ModuleCache -FDerivedData/Nearby -FNearby/Images.xcassets -FDerivedData/ModuleCache/1F5IB6P89CH2H -FDerivedData/ModuleCache/3EWFU1E1S4BSG -FDerivedData/ModuleCache/3OBHGZP2KCNF5 -FDerivedData/ModuleCache/QWKS21BSRFX3 -FDerivedData/Nearby/Build -FDerivedData/Nearby/Index -FDerivedData/Nearby/Logs -FDerivedData/Nearby/TextIndex -FNearby/Images.xcassets/AppIcon.appiconset -FNearby/Images.xcassets/LaunchImage.launchimage -FDerivedData/Nearby/Index/Debug -FDerivedData/Nearby/Index/PrecompiledHeaders -FDerivedData/Nearby/Logs/Build -FDerivedData/Nearby/Logs/Debug -FDerivedData/Nearby/Logs/Issues -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386 -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-bbhpmtqdchqcvdbwnrfzrhraticd_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cwzwbugcwqldxrfrlteqvlzpybhc_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cyxqipesonwmwlfdboalzkyeweic_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-daknouaaalezfhcuqwsfcxituxuf_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-egnnnpauhewnygbmwvnpmrvmgjfa_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gnheeokqgtswbubbipadmkacgwsx_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gqxkkfoxpjqqltfenjsxgoowijpb_ast -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s/Nearby.xcindex -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386/Nearby.xcindex -include /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch -MMD -MT dependencies -MF /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Annotation.d --serialize-diagnostics /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Annotation.dia -c /Users/useragent86/Downloads/NearbyChallenge/Nearby/Annotation.m -o /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Annotation.o36"367D5C1C-F17C-43AF-8236-E26DD68C8517-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/AppDelegate.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416889387.816286
+e416889387.993691
+r1
+xCompileC
+xDerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/AppDelegate.o
+x/Users/useragent86/Downloads/NearbyChallenge/Nearby/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/AppDelegate.m
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/useragent86/Downloads/NearbyChallenge/Nearby/AppDelegate.m218"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/AppDelegate.o Nearby/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler452dd12b3ad9b841^8463fe2b3ad9b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/AppDelegate.m0000000000000000^5501"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/AppDelegate.o Nearby/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/useragent86/Downloads/NearbyChallenge    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/useragent86/Downloads/NearbyChallenge/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-generated-files.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-own-target-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-all-target-headers.hmap -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-project-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources/i386 -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources -F/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator -F. -FDerivedData -FNearby -FNearbyTests -FDerivedData/ModuleCache -FDerivedData/Nearby -FNearby/Images.xcassets -FDerivedData/ModuleCache/1F5IB6P89CH2H -FDerivedData/ModuleCache/3EWFU1E1S4BSG -FDerivedData/ModuleCache/3OBHGZP2KCNF5 -FDerivedData/ModuleCache/QWKS21BSRFX3 -FDerivedData/Nearby/Build -FDerivedData/Nearby/Index -FDerivedData/Nearby/Logs -FDerivedData/Nearby/TextIndex -FNearby/Images.xcassets/AppIcon.appiconset -FNearby/Images.xcassets/LaunchImage.launchimage -FDerivedData/Nearby/Index/Debug -FDerivedData/Nearby/Index/PrecompiledHeaders -FDerivedData/Nearby/Logs/Build -FDerivedData/Nearby/Logs/Debug -FDerivedData/Nearby/Logs/Issues -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386 -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-bbhpmtqdchqcvdbwnrfzrhraticd_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cwzwbugcwqldxrfrlteqvlzpybhc_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cyxqipesonwmwlfdboalzkyeweic_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-daknouaaalezfhcuqwsfcxituxuf_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-egnnnpauhewnygbmwvnpmrvmgjfa_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gnheeokqgtswbubbipadmkacgwsx_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gqxkkfoxpjqqltfenjsxgoowijpb_ast -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s/Nearby.xcindex -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386/Nearby.xcindex -include /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch -MMD -MT dependencies -MF /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/AppDelegate.dia -c /Users/useragent86/Downloads/NearbyChallenge/Nearby/AppDelegate.m -o /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/AppDelegate.o36"23B6F5C9-F095-4563-AB69-5A7A5F248124-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Location.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/Location.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416889387.817114
+e416889387.940120
+r1
+xCompileC
+xDerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Location.o
+x/Users/useragent86/Downloads/NearbyChallenge/Nearby/Location.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/Location.m
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/Location.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/useragent86/Downloads/NearbyChallenge/Nearby/Location.m212"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Location.o Nearby/Location.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdc48d12b3ad9b841^03b5f42b3ad9b841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/Location.m0000000000000000^5483"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Location.o Nearby/Location.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/useragent86/Downloads/NearbyChallenge    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/useragent86/Downloads/NearbyChallenge/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-generated-files.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-own-target-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-all-target-headers.hmap -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-project-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources/i386 -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources -F/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator -F. -FDerivedData -FNearby -FNearbyTests -FDerivedData/ModuleCache -FDerivedData/Nearby -FNearby/Images.xcassets -FDerivedData/ModuleCache/1F5IB6P89CH2H -FDerivedData/ModuleCache/3EWFU1E1S4BSG -FDerivedData/ModuleCache/3OBHGZP2KCNF5 -FDerivedData/ModuleCache/QWKS21BSRFX3 -FDerivedData/Nearby/Build -FDerivedData/Nearby/Index -FDerivedData/Nearby/Logs -FDerivedData/Nearby/TextIndex -FNearby/Images.xcassets/AppIcon.appiconset -FNearby/Images.xcassets/LaunchImage.launchimage -FDerivedData/Nearby/Index/Debug -FDerivedData/Nearby/Index/PrecompiledHeaders -FDerivedData/Nearby/Logs/Build -FDerivedData/Nearby/Logs/Debug -FDerivedData/Nearby/Logs/Issues -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386 -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-bbhpmtqdchqcvdbwnrfzrhraticd_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cwzwbugcwqldxrfrlteqvlzpybhc_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cyxqipesonwmwlfdboalzkyeweic_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-daknouaaalezfhcuqwsfcxituxuf_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-egnnnpauhewnygbmwvnpmrvmgjfa_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gnheeokqgtswbubbipadmkacgwsx_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gqxkkfoxpjqqltfenjsxgoowijpb_ast -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s/Nearby.xcindex -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386/Nearby.xcindex -include /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch -MMD -MT dependencies -MF /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Location.d --serialize-diagnostics /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Location.dia -c /Users/useragent86/Downloads/NearbyChallenge/Nearby/Location.m -o /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Location.o36"8339BE14-DD3C-44F3-B878-10C573F0280C-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MBProgressHUD.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/MBProgressHUD.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416889387.818206
+e416889388.109950
+r1
+xCompileC
+xDerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MBProgressHUD.o
+x/Users/useragent86/Downloads/NearbyChallenge/Nearby/MBProgressHUD.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/MBProgressHUD.m
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/MBProgressHUD.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/useragent86/Downloads/NearbyChallenge/Nearby/MBProgressHUD.m222"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MBProgressHUD.o Nearby/MBProgressHUD.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler889dd12b3ad9b841^af251c2c3ad9b841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/MBProgressHUD.m0000000000000000^5513"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MBProgressHUD.o Nearby/MBProgressHUD.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/useragent86/Downloads/NearbyChallenge    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/useragent86/Downloads/NearbyChallenge/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-generated-files.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-own-target-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-all-target-headers.hmap -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-project-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources/i386 -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources -F/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator -F. -FDerivedData -FNearby -FNearbyTests -FDerivedData/ModuleCache -FDerivedData/Nearby -FNearby/Images.xcassets -FDerivedData/ModuleCache/1F5IB6P89CH2H -FDerivedData/ModuleCache/3EWFU1E1S4BSG -FDerivedData/ModuleCache/3OBHGZP2KCNF5 -FDerivedData/ModuleCache/QWKS21BSRFX3 -FDerivedData/Nearby/Build -FDerivedData/Nearby/Index -FDerivedData/Nearby/Logs -FDerivedData/Nearby/TextIndex -FNearby/Images.xcassets/AppIcon.appiconset -FNearby/Images.xcassets/LaunchImage.launchimage -FDerivedData/Nearby/Index/Debug -FDerivedData/Nearby/Index/PrecompiledHeaders -FDerivedData/Nearby/Logs/Build -FDerivedData/Nearby/Logs/Debug -FDerivedData/Nearby/Logs/Issues -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386 -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-bbhpmtqdchqcvdbwnrfzrhraticd_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cwzwbugcwqldxrfrlteqvlzpybhc_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cyxqipesonwmwlfdboalzkyeweic_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-daknouaaalezfhcuqwsfcxituxuf_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-egnnnpauhewnygbmwvnpmrvmgjfa_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gnheeokqgtswbubbipadmkacgwsx_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gqxkkfoxpjqqltfenjsxgoowijpb_ast -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s/Nearby.xcindex -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386/Nearby.xcindex -include /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch -MMD -MT dependencies -MF /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MBProgressHUD.d --serialize-diagnostics /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MBProgressHUD.dia -c /Users/useragent86/Downloads/NearbyChallenge/Nearby/MBProgressHUD.m -o /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MBProgressHUD.o36"07195A06-429F-412F-A336-8EA0116E20C3-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MapViewController.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416889387.928015
+e416889388.215747
+r1
+xCompileC
+xDerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MapViewController.o
+x/Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.m
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.h
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueCell.h
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/Location.h
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/MBProgressHUD.h
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/Annotation.h
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/Venue.h
+o/Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.m:22:17: warning: auto property synthesis will not synthesize property declared in a protocol [-Wobjc-protocol-property-synthesis]
+o@implementation MapViewController
+o                ^
+oIn module 'MapKit' imported from /Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.h:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h:16:56: note: property declared here
+o@property (nonatomic, readonly) CLLocationCoordinate2D coordinate;
+o                                                       ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.m230"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MapViewController.o Nearby/MapViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere4beed2b3ad9b841^de3a372c3ad9b841^-725"/Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.m:22:17: warning: auto property synthesis will not synthesize property declared in a protocol [-Wobjc-protocol-property-synthesis]@implementation MapViewController                ^In module 'MapKit' imported from /Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.h:10:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h:16:56: note: property declared here@property (nonatomic, readonly) CLLocationCoordinate2D coordinate;                                                       ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@75"Auto property synthesis will not synthesize property declared in a protocol-416889388#18446744073709551615#0#1(2@22"Property declared here-416889388#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@188"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h0000000000000000^15#55#15#55#417#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.m0000000000000000^21#16#21#16#344#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@78"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.m0000000000000000^5537"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MapViewController.o Nearby/MapViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/useragent86/Downloads/NearbyChallenge    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/useragent86/Downloads/NearbyChallenge/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-generated-files.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-own-target-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-all-target-headers.hmap -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-project-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources/i386 -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources -F/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator -F. -FDerivedData -FNearby -FNearbyTests -FDerivedData/ModuleCache -FDerivedData/Nearby -FNearby/Images.xcassets -FDerivedData/ModuleCache/1F5IB6P89CH2H -FDerivedData/ModuleCache/3EWFU1E1S4BSG -FDerivedData/ModuleCache/3OBHGZP2KCNF5 -FDerivedData/ModuleCache/QWKS21BSRFX3 -FDerivedData/Nearby/Build -FDerivedData/Nearby/Index -FDerivedData/Nearby/Logs -FDerivedData/Nearby/TextIndex -FNearby/Images.xcassets/AppIcon.appiconset -FNearby/Images.xcassets/LaunchImage.launchimage -FDerivedData/Nearby/Index/Debug -FDerivedData/Nearby/Index/PrecompiledHeaders -FDerivedData/Nearby/Logs/Build -FDerivedData/Nearby/Logs/Debug -FDerivedData/Nearby/Logs/Issues -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386 -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-bbhpmtqdchqcvdbwnrfzrhraticd_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cwzwbugcwqldxrfrlteqvlzpybhc_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cyxqipesonwmwlfdboalzkyeweic_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-daknouaaalezfhcuqwsfcxituxuf_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-egnnnpauhewnygbmwvnpmrvmgjfa_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gnheeokqgtswbubbipadmkacgwsx_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gqxkkfoxpjqqltfenjsxgoowijpb_ast -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s/Nearby.xcindex -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386/Nearby.xcindex -include /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch -MMD -MT dependencies -MF /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MapViewController.d --serialize-diagnostics /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MapViewController.dia -c /Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.m -o /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MapViewController.o36"CD9A5C3D-912D-4D3E-8811-87104EF22199-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Venue.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/Venue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416889387.818889
+e416889387.935123
+r1
+xCompileC
+xDerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Venue.o
+x/Users/useragent86/Downloads/NearbyChallenge/Nearby/Venue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/Venue.m
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/Venue.h
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/Location.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/useragent86/Downloads/NearbyChallenge/Nearby/Venue.m206"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Venue.o Nearby/Venue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6eddd12b3ad9b841^57b1f42b3ad9b841^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/Venue.m0000000000000000^5465"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Venue.o Nearby/Venue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/useragent86/Downloads/NearbyChallenge    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/useragent86/Downloads/NearbyChallenge/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-generated-files.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-own-target-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-all-target-headers.hmap -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-project-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources/i386 -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources -F/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator -F. -FDerivedData -FNearby -FNearbyTests -FDerivedData/ModuleCache -FDerivedData/Nearby -FNearby/Images.xcassets -FDerivedData/ModuleCache/1F5IB6P89CH2H -FDerivedData/ModuleCache/3EWFU1E1S4BSG -FDerivedData/ModuleCache/3OBHGZP2KCNF5 -FDerivedData/ModuleCache/QWKS21BSRFX3 -FDerivedData/Nearby/Build -FDerivedData/Nearby/Index -FDerivedData/Nearby/Logs -FDerivedData/Nearby/TextIndex -FNearby/Images.xcassets/AppIcon.appiconset -FNearby/Images.xcassets/LaunchImage.launchimage -FDerivedData/Nearby/Index/Debug -FDerivedData/Nearby/Index/PrecompiledHeaders -FDerivedData/Nearby/Logs/Build -FDerivedData/Nearby/Logs/Debug -FDerivedData/Nearby/Logs/Issues -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386 -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-bbhpmtqdchqcvdbwnrfzrhraticd_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cwzwbugcwqldxrfrlteqvlzpybhc_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cyxqipesonwmwlfdboalzkyeweic_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-daknouaaalezfhcuqwsfcxituxuf_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-egnnnpauhewnygbmwvnpmrvmgjfa_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gnheeokqgtswbubbipadmkacgwsx_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gqxkkfoxpjqqltfenjsxgoowijpb_ast -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s/Nearby.xcindex -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386/Nearby.xcindex -include /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch -MMD -MT dependencies -MF /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Venue.d --serialize-diagnostics /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Venue.dia -c /Users/useragent86/Downloads/NearbyChallenge/Nearby/Venue.m -o /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Venue.o36"AF43D919-65AF-4A9E-B074-FD7BAC871DE1-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueCell.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416889387.817788
+e416889387.978841
+r1
+xCompileC
+xDerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueCell.o
+x/Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueCell.m
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueCell.m214"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueCell.o Nearby/VenueCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbf81d12b3ad9b841^4f96fa2b3ad9b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueCell.m0000000000000000^5489"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueCell.o Nearby/VenueCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/useragent86/Downloads/NearbyChallenge    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/useragent86/Downloads/NearbyChallenge/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-generated-files.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-own-target-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-all-target-headers.hmap -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-project-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources/i386 -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources -F/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator -F. -FDerivedData -FNearby -FNearbyTests -FDerivedData/ModuleCache -FDerivedData/Nearby -FNearby/Images.xcassets -FDerivedData/ModuleCache/1F5IB6P89CH2H -FDerivedData/ModuleCache/3EWFU1E1S4BSG -FDerivedData/ModuleCache/3OBHGZP2KCNF5 -FDerivedData/ModuleCache/QWKS21BSRFX3 -FDerivedData/Nearby/Build -FDerivedData/Nearby/Index -FDerivedData/Nearby/Logs -FDerivedData/Nearby/TextIndex -FNearby/Images.xcassets/AppIcon.appiconset -FNearby/Images.xcassets/LaunchImage.launchimage -FDerivedData/Nearby/Index/Debug -FDerivedData/Nearby/Index/PrecompiledHeaders -FDerivedData/Nearby/Logs/Build -FDerivedData/Nearby/Logs/Debug -FDerivedData/Nearby/Logs/Issues -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386 -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-bbhpmtqdchqcvdbwnrfzrhraticd_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cwzwbugcwqldxrfrlteqvlzpybhc_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cyxqipesonwmwlfdboalzkyeweic_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-daknouaaalezfhcuqwsfcxituxuf_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-egnnnpauhewnygbmwvnpmrvmgjfa_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gnheeokqgtswbubbipadmkacgwsx_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gqxkkfoxpjqqltfenjsxgoowijpb_ast -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s/Nearby.xcindex -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386/Nearby.xcindex -include /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch -MMD -MT dependencies -MF /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueCell.d --serialize-diagnostics /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueCell.dia -c /Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueCell.m -o /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueCell.o36"7F407F78-A91E-4CEA-B3AD-5E6187AEF1D0-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueTableViewController.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416889387.820631
+e416889388.213270
+r1
+xCompileC
+xDerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueTableViewController.o
+x/Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueTableViewController.m
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueTableViewController.h
+d/Users/useragent86/Downloads/NearbyChallenge/SDWebImage.framework/Headers/UIImageView+WebCache.h
+d/Users/useragent86/Downloads/NearbyChallenge/SDWebImage.framework/Headers/SDWebImageCompat.h
+d/Users/useragent86/Downloads/NearbyChallenge/SDWebImage.framework/Headers/SDWebImageManager.h
+d/Users/useragent86/Downloads/NearbyChallenge/SDWebImage.framework/Headers/SDWebImageOperation.h
+d/Users/useragent86/Downloads/NearbyChallenge/SDWebImage.framework/Headers/SDWebImageDownloader.h
+d/Users/useragent86/Downloads/NearbyChallenge/SDWebImage.framework/Headers/SDImageCache.h
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/Venue.h
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/Location.h
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueCell.h
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/MBProgressHUD.h
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/MapViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueTableViewController.m244"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueTableViewController.o Nearby/VenueTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5837d22b3ad9b841^bf9b362c3ad9b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueTableViewController.m0000000000000000^5579"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueTableViewController.o Nearby/VenueTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/useragent86/Downloads/NearbyChallenge    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/useragent86/Downloads/NearbyChallenge/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-generated-files.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-own-target-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-all-target-headers.hmap -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-project-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources/i386 -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources -F/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator -F. -FDerivedData -FNearby -FNearbyTests -FDerivedData/ModuleCache -FDerivedData/Nearby -FNearby/Images.xcassets -FDerivedData/ModuleCache/1F5IB6P89CH2H -FDerivedData/ModuleCache/3EWFU1E1S4BSG -FDerivedData/ModuleCache/3OBHGZP2KCNF5 -FDerivedData/ModuleCache/QWKS21BSRFX3 -FDerivedData/Nearby/Build -FDerivedData/Nearby/Index -FDerivedData/Nearby/Logs -FDerivedData/Nearby/TextIndex -FNearby/Images.xcassets/AppIcon.appiconset -FNearby/Images.xcassets/LaunchImage.launchimage -FDerivedData/Nearby/Index/Debug -FDerivedData/Nearby/Index/PrecompiledHeaders -FDerivedData/Nearby/Logs/Build -FDerivedData/Nearby/Logs/Debug -FDerivedData/Nearby/Logs/Issues -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386 -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-bbhpmtqdchqcvdbwnrfzrhraticd_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cwzwbugcwqldxrfrlteqvlzpybhc_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cyxqipesonwmwlfdboalzkyeweic_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-daknouaaalezfhcuqwsfcxituxuf_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-egnnnpauhewnygbmwvnpmrvmgjfa_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gnheeokqgtswbubbipadmkacgwsx_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gqxkkfoxpjqqltfenjsxgoowijpb_ast -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s/Nearby.xcindex -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386/Nearby.xcindex -include /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch -MMD -MT dependencies -MF /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueTableViewController.d --serialize-diagnostics /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueTableViewController.dia -c /Users/useragent86/Downloads/NearbyChallenge/Nearby/VenueTableViewController.m -o /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueTableViewController.o36"CF7DA47E-088C-4E8E-862B-AAA9E693A055-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CCompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/main.o /Users/useragent86/Downloads/NearbyChallenge/Nearby/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416889387.819492
+e416889387.925136
+r1
+xCompileC
+xDerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/main.o
+x/Users/useragent86/Downloads/NearbyChallenge/Nearby/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/main.m
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/useragent86/Downloads/NearbyChallenge/Nearby/main.m204"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/main.o Nearby/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb9fad12b3ad9b841^a0a4f42b3ad9b841^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/main.m0000000000000000^5459"CompileC DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/main.o Nearby/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/useragent86/Downloads/NearbyChallenge    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/useragent86/Downloads/NearbyChallenge/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-generated-files.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-own-target-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-all-target-headers.hmap -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-project-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources/i386 -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources -F/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator -F. -FDerivedData -FNearby -FNearbyTests -FDerivedData/ModuleCache -FDerivedData/Nearby -FNearby/Images.xcassets -FDerivedData/ModuleCache/1F5IB6P89CH2H -FDerivedData/ModuleCache/3EWFU1E1S4BSG -FDerivedData/ModuleCache/3OBHGZP2KCNF5 -FDerivedData/ModuleCache/QWKS21BSRFX3 -FDerivedData/Nearby/Build -FDerivedData/Nearby/Index -FDerivedData/Nearby/Logs -FDerivedData/Nearby/TextIndex -FNearby/Images.xcassets/AppIcon.appiconset -FNearby/Images.xcassets/LaunchImage.launchimage -FDerivedData/Nearby/Index/Debug -FDerivedData/Nearby/Index/PrecompiledHeaders -FDerivedData/Nearby/Logs/Build -FDerivedData/Nearby/Logs/Debug -FDerivedData/Nearby/Logs/Issues -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386 -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-bbhpmtqdchqcvdbwnrfzrhraticd_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cwzwbugcwqldxrfrlteqvlzpybhc_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cyxqipesonwmwlfdboalzkyeweic_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-daknouaaalezfhcuqwsfcxituxuf_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-egnnnpauhewnygbmwvnpmrvmgjfa_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gnheeokqgtswbubbipadmkacgwsx_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gqxkkfoxpjqqltfenjsxgoowijpb_ast -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s/Nearby.xcindex -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386/Nearby.xcindex -include /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch -MMD -MT dependencies -MF /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/main.dia -c /Users/useragent86/Downloads/NearbyChallenge/Nearby/main.m -o /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/main.o36"7246D14C-DA13-4C04-B5CC-0E4490464E46-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CCompileStoryboard /Users/useragent86/Downloads/NearbyChallenge/Nearby/Base.lproj/Main.storyboard
+s416889388.521040
+e416889395.341799
+r1
+xCompileStoryboard
+x/Users/useragent86/Downloads/NearbyChallenge/Nearby/Base.lproj/Main.storyboard
+onwi_state: registration failed (1000000)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"CompileStoryboard Nearby/Base.lproj/Main.storyboard51"CompileStoryboard Nearby/Base.lproj/Main.storyboard0f7b852c3ad9b841^c38257333ad9b841^-41"nwi_state: registration failed (1000000)-0#0#1#-19%DVTDocumentLocation2@85"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/Base.lproj/Main.storyboard0000000000000000^873"CompileStoryboard Nearby/Base.lproj/Main.storyboard    cd /Users/useragent86/Downloads/NearbyChallenge    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Base.lproj/Main.storyboardc /Users/useragent86/Downloads/NearbyChallenge/Nearby/Base.lproj/Main.storyboard36"E2F88A47-BCFC-45DB-8B5D-B153B223AD0C-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CCopyStringsFile /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/en.lproj/InfoPlist.strings Nearby/en.lproj/InfoPlist.strings
+s416889388.520806
+e416889388.527295
+r1
+xCopyStringsFile
+x/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/en.lproj/InfoPlist.strings
+xNearby/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy Nearby/en.lproj/InfoPlist.strings143"CopyStringsFile DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/en.lproj/InfoPlist.strings Nearby/en.lproj/InfoPlist.stringsba67852c3ad9b841^dffc862c3ad9b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/en.lproj/InfoPlist.strings0000000000000000^639"CopyStringsFile DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/en.lproj/InfoPlist.strings Nearby/en.lproj/InfoPlist.strings    cd /Users/useragent86/Downloads/NearbyChallenge    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/en.lproj -- Nearby/en.lproj/InfoPlist.strings36"3AC1FE22-E42E-4140-9FAA-1560990308F0-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CCpResource Nearby/default-image.png DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/default-image.png
+s416889388.520665
+e416889388.522121
+r1
+xCpResource
+xNearby/default-image.png
+xDerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/default-image.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/default-image.png120"CpResource Nearby/default-image.png DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/default-image.png815d852c3ad9b841^19af852c3ad9b841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/default-image.png0034c085deffdf42^662"CpResource Nearby/default-image.png DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/default-image.png    cd /Users/useragent86/Downloads/NearbyChallenge    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/useragent86/Downloads/NearbyChallenge/Nearby/default-image.png /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app36"F654E272-DF2F-44F8-899C-16C36413D415-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CGenerateDSYMFile /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app.dSYM /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Nearby
+s416889395.346477
+e416889395.508753
+r1
+xGenerateDSYMFile
+x/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app.dSYM
+x/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Nearby
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Generate /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app.dSYM162"GenerateDSYMFile DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app.dSYM DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Nearby38c058333ad9b841^573f82333ad9b841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app.dSYM0034c085deffdf42^749"GenerateDSYMFile DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app.dSYM DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Nearby    cd /Users/useragent86/Downloads/NearbyChallenge    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Nearby -o /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app.dSYM36"07D654D1-E976-45D5-B369-F754E9310224-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CLd /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Nearby normal i386
+s416889388.260478
+e416889388.500440
+r1
+xLd
+x/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Nearby
+xnormal
+xi386
+d/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Nearby.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/AppDelegate.o
+d/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Location.o
+d/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Annotation.o
+d/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueCell.o
+d/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MBProgressHUD.o
+d/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Venue.o
+d/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/main.o
+d/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/VenueTableViewController.o
+d/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/MapViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Users/useragent86/Downloads/NearbyChallenge/SDWebImage.framework/Versions/A/SDWebImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Nearby88"Ld DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Nearby normal i38698c3422c3ad9b841^6b7d812c3ad9b841^---0#0#1#--3199"Ld DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Nearby normal i386    cd /Users/useragent86/Downloads/NearbyChallenge    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator -F/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator -F. -FDerivedData -FNearby -FNearbyTests -FDerivedData/ModuleCache -FDerivedData/Nearby -FNearby/Images.xcassets -FDerivedData/ModuleCache/1F5IB6P89CH2H -FDerivedData/ModuleCache/3EWFU1E1S4BSG -FDerivedData/ModuleCache/3OBHGZP2KCNF5 -FDerivedData/ModuleCache/QWKS21BSRFX3 -FDerivedData/Nearby/Build -FDerivedData/Nearby/Index -FDerivedData/Nearby/Logs -FDerivedData/Nearby/TextIndex -FNearby/Images.xcassets/AppIcon.appiconset -FNearby/Images.xcassets/LaunchImage.launchimage -FDerivedData/Nearby/Index/Debug -FDerivedData/Nearby/Index/PrecompiledHeaders -FDerivedData/Nearby/Logs/Build -FDerivedData/Nearby/Logs/Debug -FDerivedData/Nearby/Logs/Issues -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386 -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-bbhpmtqdchqcvdbwnrfzrhraticd_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cwzwbugcwqldxrfrlteqvlzpybhc_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cyxqipesonwmwlfdboalzkyeweic_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-daknouaaalezfhcuqwsfcxituxuf_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-egnnnpauhewnygbmwvnpmrvmgjfa_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gnheeokqgtswbubbipadmkacgwsx_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gqxkkfoxpjqqltfenjsxgoowijpb_ast -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s/Nearby.xcindex -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386/Nearby.xcindex -filelist /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Nearby.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework ImageIO -framework CoreLocation -framework MapKit -framework MobileCoreServices -framework CoreGraphics -framework SDWebImage -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Objects-normal/i386/Nearby_dependency_info.dat -o /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Nearby36"6D98F85D-38C5-4818-AEA8-87520F73E371-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CProcessInfoPlistFile /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Info.plist /Users/useragent86/Downloads/NearbyChallenge/Nearby/Nearby-Info.plist
+s416889395.342469
+e416889395.345970
+r1
+xProcessInfoPlistFile
+x/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Info.plist
+x/Users/useragent86/Downloads/NearbyChallenge/Nearby/Nearby-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Process /Users/useragent86/Downloads/NearbyChallenge/Nearby/Nearby-Info.plist123"ProcessInfoPlistFile DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Info.plist Nearby/Nearby-Info.plistf4c057333ad9b841^c49458333ad9b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/Nearby-Info.plist0000000000000000^979"ProcessInfoPlistFile DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Info.plist Nearby/Nearby-Info.plist    cd /Users/useragent86/Downloads/NearbyChallenge    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/useragent86/Downloads/NearbyChallenge/Nearby/Nearby-Info.plist -genpkginfo /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/assetcatalog_generated_info.plist -o /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app/Info.plist36"FCAF0810-8F40-4B26-88BA-934A27805F6B-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CProcessPCH /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-ddmrfszcwtfnvfezhkncozcfqonz/Nearby-Prefix.pch.pch Nearby/Nearby-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch.pch Nearby/Nearby-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416889386.431955
+e416889387.813905
+r1
+xProcessPCH
+x/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch.pch
+xNearby/Nearby-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/useragent86/Downloads/NearbyChallenge/Nearby/Nearby-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Nearby/Nearby-Prefix.pch226"ProcessPCH DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch.pch Nearby/Nearby-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere6ad6e2a3ad9b841^075fd02b3ad9b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/useragent86/Downloads/NearbyChallenge/Nearby/Nearby-Prefix.pch0000000000000000^5349"ProcessPCH DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch.pch Nearby/Nearby-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/useragent86/Downloads/NearbyChallenge    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/useragent86/Downloads/NearbyChallenge/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-generated-files.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-own-target-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-all-target-headers.hmap -iquote /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/Nearby-project-headers.hmap -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources/i386 -I/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/Nearby.build/Debug-iphonesimulator/Nearby.build/DerivedSources -F/Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator -F. -FDerivedData -FNearby -FNearbyTests -FDerivedData/ModuleCache -FDerivedData/Nearby -FNearby/Images.xcassets -FDerivedData/ModuleCache/1F5IB6P89CH2H -FDerivedData/ModuleCache/3EWFU1E1S4BSG -FDerivedData/ModuleCache/3OBHGZP2KCNF5 -FDerivedData/ModuleCache/QWKS21BSRFX3 -FDerivedData/Nearby/Build -FDerivedData/Nearby/Index -FDerivedData/Nearby/Logs -FDerivedData/Nearby/TextIndex -FNearby/Images.xcassets/AppIcon.appiconset -FNearby/Images.xcassets/LaunchImage.launchimage -FDerivedData/Nearby/Index/Debug -FDerivedData/Nearby/Index/PrecompiledHeaders -FDerivedData/Nearby/Logs/Build -FDerivedData/Nearby/Logs/Debug -FDerivedData/Nearby/Logs/Issues -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386 -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-bbhpmtqdchqcvdbwnrfzrhraticd_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cwzwbugcwqldxrfrlteqvlzpybhc_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-cyxqipesonwmwlfdboalzkyeweic_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-daknouaaalezfhcuqwsfcxituxuf_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-egnnnpauhewnygbmwvnpmrvmgjfa_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gnheeokqgtswbubbipadmkacgwsx_ast -FDerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gqxkkfoxpjqqltfenjsxgoowijpb_ast -FDerivedData/Nearby/Index/Debug/iphoneos7.1-armv7s/Nearby.xcindex -FDerivedData/Nearby/Index/Debug/iphonesimulator7.1-i386/Nearby.xcindex --serialize-diagnostics /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch.dia -MMD -MT dependencies -MF /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch.d -c /Users/useragent86/Downloads/NearbyChallenge/Nearby/Nearby-Prefix.pch -o /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Intermediates/PrecompiledHeaders/Nearby-Prefix-fewthhbzshifufbamnwzcxbkixsl/Nearby-Prefix.pch.pch36"9190D484-BE13-4733-AFC9-53D8186AFC48-
+b7CCF71FF-1638-49FF-9DD7-DE2FD51D49C7
+
+CProcessPCH /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-ekpzlconvdesureqfwjgvgyxkvdb_ast/Nearby-Prefix.pch.pch Nearby/Nearby-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Index/PrecompiledHeaders/Nearby-Prefix-gqxkkfoxpjqqltfenjsxgoowijpb_ast/Nearby-Prefix.pch.pch Nearby/Nearby-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/useragent86/Downloads/NearbyChallenge/DerivedData/Nearby/Build/Products/Debug-iphonesimulator/Nearby.app
+r0
+
